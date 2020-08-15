@@ -1,0 +1,11 @@
+**Run Mongo Services
+>mongod
+
+**Run Mongo
+>mong
+
+**Create mongo database
+>user Employees
+
+**Create collection in the database
+>db.Employees.SignUp({"EmployeeName":"John","Email":"John@gmail.com","Password":"john123","City":"Mumbai","Department":"Software"})
