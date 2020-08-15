@@ -3,3 +3,5 @@
 ################################################################################
 
 /ReactLogin/.vs/ReactLogin/v15
+/ReactLogin/packages
+/loginapp/node_modules
